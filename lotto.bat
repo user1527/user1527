@@ -2,7 +2,7 @@
 title Generator liczb litto V1.0
 color 0A
 echo --------------------------------------------------------
-echo Witaj w generatorze liczb lotto by Dawid
+echo Witaj w generatorze liczb lotto 
 echo --------------------------------------------------------
 echo .
 echo AKTUALNA GODZINA:
@@ -42,7 +42,7 @@ exit
 :info
 cls
 echo --------------------------------------
-echo Program został stworzony przez Dawida 
+echo Program został stworzony przez user1527
 echo ---------------------------------------
 pause
 cls
